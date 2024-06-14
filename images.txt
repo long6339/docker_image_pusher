@@ -1,3 +1,4 @@
 cnk3x/xunlei:latest
 eclipse-mosquitto
 ghcr.io/home-assistant/home-assistant:stable
+broadlinkac/broadlink_ac_mqtt:latest
